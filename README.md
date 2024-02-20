@@ -1,5 +1,5 @@
 # what is the idea of this project?
-Some times we need to calculate sum of numbers and the average of it.
+Some times we need to calculate sum of numbers and the average of it
 this program using by Mathematics specialists and some people need to use it.
 ## steps of projects?
 1-ask user to enter the number of items.
